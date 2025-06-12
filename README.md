@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SMugilan
+# 👋 Hi, I'm Mugilan
 
 🚀 **DevOps Engineer | Cloud Enthusiast | Automation Advocate**
 
